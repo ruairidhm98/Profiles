@@ -1,0 +1,47 @@
+\documentclass[a4paper,11pt]{article}
+
+\usepackage[a4paper,margin=2.3cm]{geometry}
+\usepackage{graphicx}
+\usepackage{hyperref}
+\usepackage[capitalise, nameinlink, sort]{cleveref}
+
+\title{Studying the Impact of NUMA in a Managed Language Implementation \\ Evaluation Metrics}
+\author{Ruairidh MacGregor \\ 2250079}
+\date{}
+
+\begin{document}
+
+\maketitle
+
+\section{Evaluation Metrics and why Each is Useful}
+\label{sec:metrics}
+
+The following metrics will be used in the evaluation, typically analysed against execution time:
+
+\begin{description}
+
+\item \textit{Mean/Peak allocation rates}: analysing this gives one an insight into the memory requirements for a given program. GHC provides specific tools in order to analyse these metrics, typically producing an output graph as a result.
+\item \textit{Thread Allocation Locality}: this gives an insight into the current locality awareness in GHC. Specifically, by recording this metric one is granted knowledge of potential shortcomings in the current state of the art in GHC. Lower locality awareness signifies more sound memory allocation is required. To record this metric, a tool such as numastat or extensions to the runtime system can be done in order to gather this information.
+\item \textit{Garbage Collection Frequency}: This gives an insight into how often garbage collection is carried out during program execution. GHC already provides significant profiling information with regards to garbage collection, however, it is not NUMA aware and doesn't take into account specific NUMA metrics. Therefore, extensions to this existing tool in GHC will be required in order to make it NUMA aware.
+\item \textit{Garbage Collection Thread (total) Runtimes}: This is of particular use for analysing different garbage collection mechanisms, e.g. generational \& copying. In particular, one can analyse the impact different policies can have on the program. GHC features a stop-the-world garbage collector, so minimising garbage collection runtime is crucial to improving the scalability of Haskell. A tool such as Performance Events for Intel based devices, $\mu$Prof for AMD, and, Linux perf-tools can be of particular use when analysing this as they go beyond the scope of what can be captured in user programs or even extensions to the compiler.
+\item \textit{Garbage Collection Locality}: similar to allocation locality, this gives an insight into the locality awareness of the garbage collector and can present potential shortcomings in the state of the art. This will also require extensions to the GHC runtime system in order to record this, with similar requirements to \textit{Garbage Collection Frequency}.
+\item \textit{Rooted (reference) Subgraph Locality}: This is based off Alnowaiser \& Singers work, which is described in. To date, this has only been analysed in the JVM and shows promising results, thus providing motivation for this same work to be carried out in GHC. Therefore, extensions to GHC will be required in order to record this metric.
+
+\end{description}
+
+\section{Numaprof}
+
+Numaprof extract the given metrics per call site and per malloc call site:
+
+\begin{description}
+\item \textit{firstTouch}: allows you to know where the first touch takes place from a bound thread
+\item \textit{unpinnedFirstTouch}: allows you to know where the first touches take place from non-bound threads
+localAccess: Allows to count the local accesses (via a bound thread)
+\item \textit{remoteAccess}: Used to count remote accesses (via a bound thread)
+\item \textit{unpinnedPageAccess}: Access from a thread bound to a page whose thread that made the first touch was not bound
+\item \textit{unpinnedThreadAccess}: Access from an unbound thread to a page whose first touch thread was bound
+\item \textit{unpinnedBothAccess}: Access from an unbound thread to a page set up by an unbound thread
+\item \textit{mcdram}: Access to mcdram on KNL
+\end{description}
+
+\end{document}
