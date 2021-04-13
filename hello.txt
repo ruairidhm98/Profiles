@@ -1,0 +1,1280 @@
+Garbage Collection Locality Stats for Capability 0 on region 0
+Carried out 8 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+182499 23892 19894 
+148863 4267 1052 
+132269 3107 0 
+77432 5726 7203 
+180348 8340 0 
+121988 6809 1055 
+157961 6071 0 
+227204 11963 517 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 1 on region 1
+Carried out 8 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+246317 2281 124 
+158600 7766 466 
+256201 4892 3 
+138659 7329 2252 
+146503 1847 0 
+150933 5409 4651 
+127936 7668 0 
+172087 10783 60 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 2 on region 2
+Carried out 11 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+182754 15246 64 
+254831 4575 888 
+465351 5260 6 
+396634 19705 3767 
+243609 7543 0 
+264105 11499 5918 
+274093 16618 0 
+233195 32433 102 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 3 on region 3
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+456255 3609 138 
+192604 3431 655 
+283457 17395 4 
+274265 13230 3014 
+228465 11286 0 
+257994 4931 3959 
+206889 5350 0 
+159385 3209 84 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 4 on region 4
+Carried out 13 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+562334 1663340 19949 
+345360 1349999 1992 
+352486 1410418 1 
+290122 631577 9293 
+460263 890307 0 
+436244 1291981 9396933 
+229797 2472982 0 
+311430 2270175 692 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 5 on region 5
+Carried out 6 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+120830 3672 124 
+48406 5561 225 
+67828 3022 0 
+50883 2463 1144 
+88384 2428 0 
+43559 1543 1677 
+41606 941 0 
+65830 15310 30 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 6 on region 6
+Carried out 8 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+136435 7181 124 
+211688 18345 544 
+144640 19600 0 
+88684 2359 2302 
+115231 3468 0 
+96639 17697 2849 
+208240 3802 0 
+154940 3884 62 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 7 on region 7
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+273621 3203 241 
+202612 8988 561 
+253898 11570 1 
+210793 11863 3058 
+108516 4979 0 
+205611 5010 3491 
+217541 5598 0 
+216864 4285 87 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 8 on region 0
+Carried out 132 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+5534483 1204095 930 
+1438601 156280 6475 
+2204432 354031 35 
+881071 137236 38931 
+1232965 320049 0 
+1463557 285322 28891 
+676287 264202 0 
+1404069 95741 1419 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 9 on region 1
+Carried out 15 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+587080 320089 20047 
+559458 1098530 1920 
+602102 993230 30 
+418275 1033111 9633 
+511381 925347 0 
+394935 3066992 7170027 
+481630 1013850 0 
+464452 697864 688 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 10 on region 2
+Carried out 31 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+461542 36121 445 
+414786 27253 2401 
+662455 31331 10 
+563279 41488 10779 
+413713 27928 0 
+591974 27684 17984 
+429141 42376 0 
+424707 29851 305 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 11 on region 3
+Carried out 10 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+323538 9932 55 
+285552 9327 760 
+196660 5418 0 
+286602 16382 2963 
+333935 16652 0 
+216618 12402 4357 
+291318 6706 0 
+177532 5220 80 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 12 on region 4
+Carried out 11 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+457907 26226 267 
+584047 16484 765 
+452635 5316 2 
+338221 20477 3762 
+391741 11383 0 
+367453 15648 4511 
+282504 10118 0 
+413909 14634 101 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 13 on region 5
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+58319 3192 108 
+77720 2313 185 
+56427 5408 1 
+56665 701 1137 
+53954 759 0 
+125304 22271 2149 
+113626 1330 0 
+111084 4883 30 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 14 on region 6
+Carried out 11 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+237323 26622 59 
+287655 13101 990 
+304698 14933 1 
+205691 18814 3416 
+277429 14355 0 
+180204 15100 8835 
+344189 13053 0 
+206841 9544 91 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 15 on region 7
+Carried out 15 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+365853 22235 295 
+373491 39203 942 
+616805 28524 1 
+397502 8973 4067 
+394798 20564 0 
+338457 6943 5312 
+489126 14150 0 
+516333 58557 1060 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 16 on region 0
+Carried out 14 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+480070 52622 68 
+404734 25181 1062 
+467310 6173 2 
+245949 19932 4193 
+488344 10764 0 
+384618 23543 6760 
+292102 17434 0 
+277637 4100 111 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 17 on region 1
+Carried out 17 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+187496 12757 141 
+284895 25552 1086 
+290403 10489 0 
+234775 14288 4736 
+143276 14810 0 
+204732 16393 6348 
+364404 19164 0 
+229008 13891 134 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 18 on region 2
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+85378 22383 40 
+132720 11965 505 
+357038 15920 2 
+127221 7644 2299 
+214862 31522 0 
+173164 9791 4081 
+148343 15362 0 
+194816 16354 71 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 19 on region 3
+Carried out 13 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+243280 1466436 19922 
+142418 944953 1764 
+185745 1273179 29 
+240974 3221130 8547 
+186996 1103167 0 
+134077 2058734 9748914 
+211623 1097284 0 
+148770 1163373 679 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 20 on region 4
+Carried out 11 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+184137 26085 132 
+158378 7375 553 
+97064 6653 2 
+96506 16648 2675 
+162050 5223 0 
+75338 5726 3590 
+143629 3138 0 
+79265 5134 24557 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 21 on region 5
+Carried out 17 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+463042 26984 195 
+407804 17871 1232 
+380100 19417 9 
+455518 51505 5310 
+290262 14989 0 
+460461 36338 7513 
+304658 43164 0 
+349143 19248 143 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 22 on region 6
+Carried out 4 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+71204 1761 217 
+18335 1235 73 
+25326 3683 0 
+27050 3126 1135 
+46232 740 0 
+28397 1550 1404 
+21570 1396 0 
+18088 629 36 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 23 on region 7
+Carried out 7 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+155763 4542 233 
+151432 1875 293 
+142341 2988 1 
+58040 3265 1894 
+129080 1115 0 
+169901 3033 1812 
+117626 2318 0 
+111049 5515 56 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 24 on region 0
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+169944 23945 367 
+183531 11981 526 
+158196 11705 0 
+131640 13047 2642 
+170521 6440 17306 
+184137 22030 4906 
+129032 7224 0 
+112888 7354 17402 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 25 on region 1
+Carried out 31 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+334374 1024211 83 
+353818 651477 5831 
+432099 655781 12 
+357698 815138 31893 
+295119 1068535 0 
+474195 780259 4900450 
+373986 674460 0 
+394770 673468 934 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 26 on region 2
+Carried out 10 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+319688 17982 132 
+234980 8344 740 
+178131 9508 4 
+114308 8577 3358 
+129578 35817 0 
+151988 10398 6127 
+138968 13100 0 
+196084 7529 90 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 27 on region 3
+Carried out 8 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+178414 1627 269 
+132599 15555 281 
+65489 5317 0 
+140372 4886 1868 
+86920 3628 0 
+144372 4742 3587 
+74992 6349 0 
+101344 1487 56 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 28 on region 4
+Carried out 10 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+344451 5954 32 
+169140 7299 707 
+198911 18765 1 
+161116 15422 2955 
+193509 8420 0 
+142771 4189 8140 
+193997 7298 0 
+144024 6110 80 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 29 on region 5
+Carried out 10 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+101083 286803 844 
+192642 183066 3372 
+215688 265411 1 
+174216 336325 25100 
+187450 187585 0 
+142139 575958 1747811 
+281725 198183 0 
+181574 217105 891 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 30 on region 6
+Carried out 13 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+277595 131144 3631 
+168268 65201 647 
+189087 68021 2 
+186973 86900 25843 
+127552 53997 0 
+265660 91754 465194 
+256875 75145 0 
+201994 89947 994 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 31 on region 7
+Carried out 13 GCs
+Carried out 3 GCs
+Carried out 0 GCs
+173162 605369 4314 
+143528 371951 3576 
+155455 369675 2 
+103505 730191 48359 
+74681 356835 0 
+151821 376029 2918382 
+135465 444493 0 
+242177 499485 1801 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 32 on region 0
+Carried out 7 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+256001 5546 185 
+119194 8064 432 
+101373 6246 1 
+111475 2015 1927 
+123742 11694 0 
+108567 2449 3874 
+158393 5781 0 
+116763 14310 509 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 33 on region 1
+Carried out 11 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+51723 29086 137 
+243258 22856 416 
+218334 22982 0 
+59908 22837 2427 
+74468 7311 0 
+72962 31000 4314 
+118404 19971 0 
+96668 6363 80 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 34 on region 2
+Carried out 24 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+460657 56256 222 
+467138 38716 2026 
+868001 54999 16 
+375198 48010 8320 
+238027 17283 0 
+326403 33254 10559 
+435808 56986 0 
+389436 19413 236 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 35 on region 3
+Carried out 5 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+95117 2946 20 
+63210 3361 254 
+81110 1221 0 
+87520 2033 1099 
+83226 5081 0 
+57568 2771 2481 
+89432 3748 0 
+61206 7980 30 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 36 on region 4
+Carried out 7 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+56047 3049 12 
+76355 3958 502 
+89222 3501 0 
+57625 3905 1873 
+66989 15633 0 
+59651 2568 3191 
+69684 6265 0 
+53579 5275 51 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 37 on region 5
+Carried out 11 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+215206 10945 260 
+216652 13947 625 
+208332 10337 3 
+259451 5290 3024 
+165102 4458 0 
+375988 10791 4626 
+166175 9722 0 
+181651 7502 80 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 38 on region 6
+Carried out 19 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+532113 33300 280 
+532114 27821 1465 
+737011 16062 4 
+539719 20407 6392 
+423135 11823 0 
+444176 14830 10619 
+589122 29094 0 
+532808 31170 174 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 39 on region 7
+Carried out 4 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+79134 18204 21 
+120198 4238 238 
+107626 2494 0 
+77307 1384 1141 
+48534 2970 0 
+66855 708 1768 
+94295 4528 0 
+137751 15182 30 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 40 on region 0
+Carried out 15 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+178616 1349536 20251 
+155817 1105045 1535 
+116549 1413267 0 
+143157 671420 8904 
+135937 1388832 0 
+189446 1238718 7805054 
+154070 1808794 0 
+185559 894891 1872 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 41 on region 1
+Carried out 4 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+59059 5892 175 
+45766 4203 68 
+44463 3366 0 
+25512 5983 1088 
+43652 1911 0 
+102692 4349 707 
+71418 2984 0 
+45099 2012 30 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 42 on region 2
+Carried out 23 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+437105 157325 4513 
+219783 116630 1028 
+417694 107819 5 
+628767 261085 30187 
+270094 113994 0 
+430062 239722 807440 
+359103 123916 0 
+329293 114302 1154 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 43 on region 3
+Carried out 11 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+294514 7182 239 
+153379 13633 766 
+397133 9302 2 
+307115 13133 3482 
+219832 17777 0 
+197714 18936 4598 
+372178 14921 0 
+242549 8282 106 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 44 on region 4
+Carried out 5 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+141624 2360 140 
+155933 4719 287 
+107467 4098 1 
+182612 6182 1532 
+45879 1818 0 
+141250 5708 2305 
+180087 6547 0 
+74592 3077 40 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 45 on region 5
+Carried out 3 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+60593 1993 21 
+46543 3303 238 
+100811 5595 0 
+80133 2345 1136 
+37414 4323 0 
+101268 1284 641 
+53754 1219 0 
+106399 3466 31 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 46 on region 6
+Carried out 14 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+491766 30828 266 
+355422 26749 1139 
+479995 13363 2 
+316728 14468 4888 
+403712 17850 0 
+341510 13327 10000 
+454153 11287 0 
+276071 18215 130 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 47 on region 7
+Carried out 7 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+148541 2293 43 
+130158 5518 568 
+241721 4887 3 
+211368 12708 2207 
+98358 5358 0 
+169816 4324 2189 
+181225 11734 0 
+99178 9789 60 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 48 on region 0
+Carried out 9 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+57160 3753 262 
+84524 2994 123 
+34890 850 0 
+47669 10574 1143 
+46317 4180 0 
+88276 6891 1374 
+42889 4329 0 
+74963 5627 529 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 49 on region 1
+Carried out 4 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+94046 3670 20 
+135142 5222 352 
+57915 1344 0 
+70347 986 1138 
+103697 1996 0 
+67997 1462 827 
+66582 9470 0 
+66490 2452 31 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 50 on region 2
+Carried out 14 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+264575 153277 3474 
+258961 170721 1126 
+374706 143239 7 
+327020 165012 26602 
+261716 424321 0 
+328788 198796 1224172 
+159288 227715 0 
+230478 148529 1005 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 51 on region 3
+Carried out 8 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+170146 13572 40 
+94398 22301 561 
+166135 2372 2 
+156843 5253 2137 
+144580 8070 0 
+221305 4343 5424 
+82116 17684 0 
+98764 7900 60 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 52 on region 4
+Carried out 30 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+658822 17339 48 
+458980 25390 2759 
+338328 19306 0 
+487643 24877 10223 
+458966 26176 0 
+378469 29825 15918 
+508051 17460 0 
+362921 40508 270 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 53 on region 5
+Carried out 5 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+81624 4554 142 
+180108 3137 301 
+216729 4233 3 
+127329 2048 1870 
+82904 4818 0 
+191314 18807 2587 
+98730 3767 0 
+112048 4177 51 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 54 on region 6
+Carried out 18 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+314609 12265 368 
+309311 12869 966 
+414886 10273 3 
+286228 8052 4917 
+324262 9587 0 
+423394 9054 5643 
+445212 11132 0 
+387570 9353 133 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 55 on region 7
+Carried out 8 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+145051 3964 134 
+129606 7364 559 
+143230 6307 2 
+121023 7921 2677 
+124677 14875 0 
+132969 5597 4555 
+116505 9609 0 
+139207 23163 70 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 56 on region 0
+Carried out 8 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+44005 40088 651 
+69907 21124 205 
+38637 23486 0 
+53563 25146 790 
+58240 17887 17320 
+69017 25645 1205 
+45279 25125 0 
+102894 25046 133855 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 57 on region 1
+Carried out 6 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+248835 10229 109 
+154796 8322 401 
+240799 2051 2 
+84062 1832 1874 
+163844 2747 0 
+136272 3972 3213 
+91159 2720 0 
+136748 3623 54 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 58 on region 2
+Carried out 11 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+227679 9758 59 
+243153 13235 895 
+376146 21262 3 
+187094 23453 3430 
+257921 21694 0 
+238787 11077 5271 
+236936 15434 0 
+195734 11019 104 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 59 on region 3
+Carried out 9 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+272662 9993 154 
+276264 7033 651 
+403231 12878 5 
+315614 6881 2680 
+296298 8832 0 
+336003 9476 4004 
+259863 11475 0 
+277656 16948 71 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 60 on region 4
+Carried out 3 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+18297 3693 14 
+44375 2713 150 
+101374 3346 0 
+59349 3548 608 
+87421 2925 0 
+28239 431 528 
+111708 1148 0 
+11720 3647 20 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 61 on region 5
+Carried out 11 GCs
+Carried out 0 GCs
+Carried out 0 GCs
+121514 10664 377 
+194210 19215 657 
+222020 14737 6 
+360303 24103 4167 
+206762 32129 0 
+509446 16763 5839 
+137998 30693 0 
+223300 19824 110 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 62 on region 6
+Carried out 13 GCs
+Carried out 2 GCs
+Carried out 0 GCs
+132984 744897 19803 
+146067 1173732 1837 
+133235 1420633 0 
+105465 974551 8163 
+95977 651831 0 
+126216 1243723 6350103 
+134116 812501 0 
+86164 1034243 726 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+Garbage Collection Locality Stats for Capability 63 on region 7
+Carried out 7 GCs
+Carried out 1 GCs
+Carried out 0 GCs
+177222 5065 353 
+281418 5334 246 
+252726 2164 1 
+103021 3987 2284 
+178668 2763 0 
+139219 5475 3910 
+192986 3155 0 
+248012 8721 64 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
+0 0 0 
